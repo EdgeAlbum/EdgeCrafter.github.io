@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/iAlbum',
+    publicPath: '/album',
     devServer: {
         proxy: {
             '/api': {
