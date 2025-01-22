@@ -1,4 +1,4 @@
-const publicPath = '/iAlbum';
+const publicPath = '/album';
 
 function parse_args() {
     let _args = {};
