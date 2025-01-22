@@ -1,11 +1,11 @@
 version: 1.0
 album:
     - name: CarModel
-    friendly_name: 车车车模
-    preview: car1.jpg
+      friendly_name: 车车车模
+      preview: car1.jpg
     - name: film
-    friendly_name: 胶胶胶片
-    preview: film1.png
+      friendly_name: 胶胶胶片
+      preview: film1.png
     - name: RVP100
-    friendly_name: RVP100
-    preview: RVP1001.jpg
+      friendly_name: RVP100
+      preview: RVP1001.jpg
