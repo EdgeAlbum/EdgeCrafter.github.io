@@ -1,10 +1,11 @@
 version: 1.0
 album:
-  - name: cat
-    friendly_name: 可爱猫咪
-    preview: IMG_0100.jpg
-  - name: foods
-    friendly_name: 喜欢的食物
-    password: 法罗群岛
-    hint: 北欧哪里盛产三文鱼
-    preview: IMG_0110.jpg
+    - name: CarModel
+    friendly_name: 车车车模
+    preview: car-1.jpg
+    - name: film
+    friendly_name: 胶胶胶片
+    preview: film-1.jpg
+    - name: RVP100
+    friendly_name: RVP100
+    preview: RVP100-1.jpg
