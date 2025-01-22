@@ -1,4 +1,4 @@
-const publicPath = '/';
+const publicPath = '';
 
 function parse_args() {
     let _args = {};
