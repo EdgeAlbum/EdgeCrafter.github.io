@@ -1,5 +1,6 @@
 version: 1.0
 album:
+<<<<<<< HEAD
     - name: House
       friendly_name: 房间
       preview: _DSC2670 - 01.jpg
@@ -8,4 +9,14 @@ album:
       preview: IMG_0546.jpg
     - name: Shot on Film
       friendly_name: 胶片
+=======
+    - name: CarModel
+      friendly_name: 车车车模
+      preview: car1.jpg
+    - name: film
+      friendly_name: 胶胶胶片
+      preview: film1.png
+    - name: RVP100
+      friendly_name: RVP100
+>>>>>>> 2515fa6184ba14d110c18eea6e0c860ac301a97e
       preview: RVP1001.jpg
